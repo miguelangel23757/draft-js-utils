@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "draft-js": "^0.11.0",
-    "immutable": "3.x.x"
+    "immutable": "4.x.x"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
